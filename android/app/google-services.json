@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "642930496088",
+    "firebase_url": "https://tes-firebase-bf0c4-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tes-firebase-bf0c4",
+    "storage_bucket": "tes-firebase-bf0c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642930496088:android:55149838a4c4f12b5cf02d",
+        "android_client_info": {
+          "package_name": "com.example.daftar_belanja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7sqKDkVH9gXApjBzfH_begL6pOqkho-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
