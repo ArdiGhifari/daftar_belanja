@@ -17,12 +17,11 @@ class ShoppingService {
           items[key] = value['name'] as String;
         });
       }
-
       return items;
     });
   }
 
-  void addShoppingList(String itemName) {
+  void addShoppingItem(String itemName) {
     _database.push().set({'name': itemName});
   }
 
